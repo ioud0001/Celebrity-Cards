@@ -1,0 +1,20 @@
+{"celebs":[
+	{"id": 1, "fullName": "David Letterman", "salary": "20 mil.", "birthPlace": "USA","age":68,"image": "img/david_letterman.jpg"},
+	{"id": 2, "fullName": "Howard Dwight", "salary": "22.36 mil.","birthPlace": "USA", "age":29,"image": "img/dwight_howard.jpg"},
+	{"id": 3,"fullName": "Hugh Jackman","salary": "N/A","birthPlace": "USA","age":47,"image": "img/hugh_jackman.jpg"},
+	{"id": 4, "fullName": "Jennifer Lopez", "salary": "17.5 mil.","birthPlace": "USA", "age":46,"image": "img/jennifer_lopez.jpg"},
+	{"id": 5, "fullName": "Karnal Hassan", "salary": "N/A","birthPlace": "USA", "age":"N/A", "image": "img/kamal_hassan.jpg"},
+{"id": 6,"fullName": "Lil Wayne","salary": 600000,"birthPlace": "USA","age":33,"image": "img/lil_wayne.jpg"},
+{"id": 7,"fullName": "Michael Douglas","salary":  "15 mil.","birthPlace": "USA","age":71,"image": "img/michael_douglas.jpg"},
+{"id": 8,"fullName": "Michael Jordan","salary": "90.2 mil.", "birthPlace": "USA","age":52,"image": "img/michael_jordan.jpg"},
+{"id": 10,"fullName": "Nathan Sykes","salary": "N/A","birthPlace": "USA","age":22,"image": "img/nathan_sykes.jpg"},
+{"id": 11,"fullName": "Nicolas Cage","salary": "N/A","birthPlace": "USA","age":51,"image": "img/nicolas_cage.jpg"},
+{"id": 12,"fullName": "Orlando Bloom","salary": "35 mil.", "birthPlace": "USA","age":38,"image": "img/orlando_bloom.jpg"}, 
+{"id": 13,"fullName": "Rush Limbaugh","salary": "400 mil.", "birthPlace": "USA","age":64,"image": "img/rush_limbaugh.jpg"},
+{"id": 14,"fullName": "Ryan Reynolds","salary": "45 mil.", "birthPlace": "Canada","age":"N/A","image": "img/ryan_reynolds.jpg"},
+{"id": 15,"fullName": "Sofia Vergara","salary": "37 mil.", "birthPlace": "Barranquilla, Colombia","age":43,"image": "img/sofia_vergara.jpg"},
+{"id": 16,"fullName": "Usher","salary": "N/A", "birthPlace": "USA","age":37,"image": "img/usher.jpg"},
+{"id": 17,"fullName": "Vin Diesel","salary": "47 mil.", "birthPlace": "USA","age":48,"image": "img/vin_diesel.jpg"},
+{"id": 18,"fullName": "Zooey Deschanel","salary": 3916300, "birthPlace": "USA","age":35,"image": "img/zooey_deschanel.jpg"}
+]}
+

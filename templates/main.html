@@ -1,0 +1,9 @@
+<main>
+                <div class="col-sm-6" ng-repeat="celeb in allData.celebs">
+                    <div class="card card-block"   >
+                    <img class="profile-pic" ng-src="{{celeb.image}}" alt="{{celeb.fullName}}" />
+                    <h4 class="celeb-name">{{celeb.fullName}}</h4>
+                      <p><a class="btn btn-default" href="#/details/{{celeb.id}}" role="button">View details &raquo;</a></p>
+                </div><!--/row-->
+                </div>
+            </main>
